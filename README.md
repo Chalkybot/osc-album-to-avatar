@@ -3,8 +3,7 @@
 This Python script is designed to enhance your VRChat experience by dynamically changing your avatar's hoodie/other accessories based on the currently playing media cover art. The script retrieves information about the currently playing media from the Windows Media API and sends the corresponding album cover signal to VRChat using OSC.
 
 ## How it looks in game
-[![Script in action](https://imgur.com/a/GlgXJFg)](https://streamable.com/ji48ln)
-
+[![Script in action](https://i.imgur.com/DA1VDZz.png)](https://streamable.com/ji48ln)
 
 ## Requirements
 
